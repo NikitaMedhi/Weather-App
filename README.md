@@ -8,4 +8,4 @@ A user-friendly weather application that provides accurate and up-to-date weathe
 - **City Search**: Search for weather information by entering the name of a city.
 - **Detailed Forecasts**: Provides temperature, humidity, wind speed, and more.
 - **Responsive Design**: Works seamlessly across devices, including desktops, tablets, and smartphones.
-- **API Integration**: Uses [OpenWeatherMap API](https://openweathermap.org/api) (or another API if applicable).
+- **API Integration**: Uses [OpenWeatherMap API](https://openweathermap.org/api)
